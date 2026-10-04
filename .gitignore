@@ -1,0 +1,46 @@
+# Dependências (reinstaladas com `npm install`)
+node_modules/
+
+# Saídas de build (geradas por `npm run build`; a Vercel faz o próprio build)
+dist/
+dist-server/
+*.tsbuildinfo
+coverage/
+
+# Arquivos temporários do Vite
+vite.config.*.timestamp-*
+.vite/
+
+# Variáveis de ambiente e segredos: nunca versionar.
+# Se um dia houver variáveis, documente os nomes num .env.example (sem valores).
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+*.p12
+*.pfx
+# Pode guardar token de registro npm; o projeto não usa.
+.npmrc
+
+# Vercel (ID do projeto e da conta, criado por `vercel link` / `npx vercel`)
+.vercel/
+
+# Configurações locais de ferramentas e editores
+.claude/settings.local.json
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Logs e relatórios gerados localmente
+*.log
+npm-debug.log*
+lighthouse*.json
+lh-*.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini

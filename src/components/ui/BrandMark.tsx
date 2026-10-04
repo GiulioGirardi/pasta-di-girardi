@@ -1,0 +1,13 @@
+/** Fita de talharim enrolada em ninho (espiral de 2¾ voltas). Mesma geometria de scripts/generate-assets.mjs. */
+const RIBBON =
+  'M25.7 25.7C25.41 26.3 24.8 26.85 24 27.07C23.2 27.3 22.2 27.18 21.35 26.65C20.5 26.11 19.81 25.16 19.58 24C19.36 22.84 19.62 21.5 20.4 20.4C21.18 19.3 22.49 18.46 24 18.24C25.51 18.01 27.2 18.42 28.55 19.45C29.9 20.48 30.88 22.14 31.11 24C31.33 25.86 30.78 27.9 29.5 29.5C28.22 31.1 26.21 32.23 24 32.45C21.79 32.68 19.39 31.99 17.55 30.45C15.7 28.92 14.42 26.57 14.2 24C13.98 21.43 14.81 18.69 16.59 16.59C18.37 14.5 21.08 13.08 24 12.85C26.92 12.63 30.01 13.61 32.36 15.64C34.7 17.67 36.27 20.73 36.49 24C36.72 27.27 35.59 30.71 33.31 33.31C31.03 35.9 27.62 37.61 24 37.84C20.38 38.06 16.59 36.79 13.74 34.26C10.9 31.73 9.04 27.97 8.82 24C8.59 20.03 10.01 15.88 12.79 12.79C15.57 9.7 19.67 7.7 24 7.47C28.33 7.25 32.82 8.81 36.16 11.84';
+
+/** Símbolo da marca: ninho de talharim estilizado. Decorativo por padrão. */
+export function BrandMark({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 48 48" className={className} aria-hidden="true" focusable="false">
+      <circle cx="24" cy="24" r="24" fill="var(--color-terracota-600)" />
+      <path d={RIBBON} fill="none" stroke="var(--color-trigo-300)" strokeWidth="3.2" strokeLinecap="round" />
+    </svg>
+  );
+}
