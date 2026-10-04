@@ -116,11 +116,11 @@ As fotos vêm do [Wikimedia Commons](https://commons.wikimedia.org/) (CC0, domí
 |---|---|---|---|---|
 | `hero-talharim` | [Delicious spaghetti bolognese with sauce and cheese on a table](https://unsplash.com/photos/lmM2hqNzrfw) | BONNNI C | Unsplash License | Unsplash |
 | `talharim-bolonhesa` | [Pasta dish on white ceramic plate](https://unsplash.com/photos/BhEXW19sW1M) | Farhad Ibrahimzade | Unsplash License | Unsplash |
-| `raviolis-quatro-queijos` | [Four cheese ravioli with cream sauce](https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Four_cheese_ravioli_with_cream_sauce.jpg) | HaJunkiyada | CC BY-SA 4.0 | Commons |
+| `raviolis-quatro-queijos` | [Cooked food in plate](https://unsplash.com/photos/xc-067-UsOQ) | Nicolas Cuestas | Unsplash License | Unsplash |
 | `lasanha` | [Lasagna (1)](https://commons.wikimedia.org/wiki/File:Lasagna_(1).jpg) | jeffreyw | CC BY 2.0 | Commons |
-| `nhoque-sugo` | [Gnocchi al pomodoro](https://commons.wikimedia.org/wiki/File:Gnocchi_al_pomodoro.JPG) | Ivan Vighetto | CC BY-SA 3.0 | Commons |
+| `nhoque-sugo` | [Gnocchi with tomato sauce and basil garnish](https://unsplash.com/photos/O7Uq62XKz34) | Eva Greenberg | Unsplash License | Unsplash |
 | `talharim-trufado` | [Tagliatelle al tartufo](https://commons.wikimedia.org/wiki/File:Tagliatelle_al_tartufo.jpg) | GastRomagna | CC0 | Commons |
-| `farinha-e-ovos` | [Making a better homemade pasta](https://commons.wikimedia.org/wiki/File:Making_a_better_homemade_pasta_-_16508591810.jpg) | Joy | CC BY 2.0 | Commons |
+| `farinha-e-ovos` | [Eggs and flour](https://unsplash.com/photos/5evEHNh-Ft4) | Wendy Rake | Unsplash License | Unsplash |
 | `ninho-de-massa` | [Tagliatelle!](https://commons.wikimedia.org/wiki/File:Tagliatelle!_(378171165).jpg) | Sebastian Mary | CC BY-SA 2.0 | Commons |
 | `maquina-de-massa` | [A person holding a yellow container with yellow cables](https://unsplash.com/photos/7loCcIB4v3o) | Andrés Giménez | Unsplash License | Unsplash |
 | `lamina-de-massa` | [A person is using a pasta machine to make pasta](https://unsplash.com/photos/mciRIMaxiAM) | Vincent Dörig | Unsplash License | Unsplash |
@@ -132,7 +132,7 @@ As fotos vêm do [Wikimedia Commons](https://commons.wikimedia.org/) (CC0, domí
 | `salao-abobadado` | [L'eau Vive restaurant, Rome](https://commons.wikimedia.org/wiki/File:L%27eau_Vive_restaurant,_Rome.jpg) | Wknight94 | CC BY-SA 3.0 | Commons |
 | `salao-toalhas-vermelhas` | [Brown wooden table and chairs](https://unsplash.com/photos/iFyLBKmCrmQ) | Brands&People | Unsplash License | Unsplash |
 | `tiramisu` | [Tiramisu](https://commons.wikimedia.org/wiki/File:Tiramisu_-_Raffaele_Diomede.jpg) | Raffaele Diomede | CC BY 2.0 | Commons |
-| `bola-de-massa` | [Making a better homemade pasta](https://commons.wikimedia.org/wiki/File:Making_a_better_homemade_pasta_-_16694677671.jpg) | Joy | CC BY 2.0 | Commons |
+| `bola-de-massa` | [Person making dough beside brown wooden rolling pin](https://unsplash.com/photos/tOYiQxF9-Ys) | Nadya Spetnitskaya | Unsplash License | Unsplash |
 
 Os títulos do Unsplash são os gerados pelo site e às vezes não descrevem a foto (o nhoque aparece como "cookies"); o texto alternativo da página é escrito à parte. Os ambientes das fotos são restaurantes reais de outros países, usados só como ilustração; os nomes deles não aparecem na página.
 

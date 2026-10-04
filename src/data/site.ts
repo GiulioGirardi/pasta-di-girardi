@@ -121,7 +121,7 @@ export const highlights = {
       price: 76,
       tags: ['vegetariano'],
       image: 'raviolis-quatro-queijos',
-      alt: 'Raviólis quadrados em molho branco cremoso com folhas verdes por cima',
+      alt: 'Raviólis na manteiga com folhas de ervas, em prato branco de borda azul sobre guardanapo de linho',
     },
     {
       name: 'Lasanha da casa',
@@ -132,11 +132,11 @@ export const highlights = {
     },
     {
       name: 'Nhoque ao sugo',
-      description: 'Nhoque de batata leve, feito na hora, com molho de tomate italiano e manjericão.',
+      description: 'Nhoque de batata leve, feito na hora, com molho de tomate italiano, stracciatella e manjericão.',
       price: 62,
       tags: ['vegetariano'],
       image: 'nhoque-sugo',
-      alt: 'Prato branco com nhoques cobertos por molho de tomate vermelho',
+      alt: 'Nhoques no molho de tomate com stracciatella e uma folha de manjericão, em prato fundo branco',
     },
   ] satisfies Highlight[],
 };
@@ -298,9 +298,9 @@ export const madeInHouse = {
     { title: 'Rechear e fechar', text: 'Raviólis, capeletti e tortéi são recheados e fechados um a um, à mão.' },
   ],
   photos: [
-    { image: 'farinha-e-ovos', alt: 'Ovos sendo misturados com garfo no centro de um monte de farinha' },
+    { image: 'farinha-e-ovos', alt: 'Gemas de ovo no centro de um monte de farinha, sobre bancada de mármore, com ovos inteiros ao lado' },
     { image: 'ninho-de-massa', alt: 'Ninho de talharim fresco polvilhado com farinha, com dois ovos ao fundo' },
-    { image: 'bola-de-massa', alt: 'Bola de massa lisa descansando sobre bancada escura salpicada de farinha' },
+    { image: 'bola-de-massa', alt: 'Mãos sovando a massa sobre bancada enfarinhada, com rolo de madeira e pano de prato ao fundo' },
   ] satisfies Photo[],
   chef: {
     name: 'Teresa Girardi',
@@ -481,11 +481,11 @@ export const whatsappMessages = {
 export const imageCredits: ImageCredit[] = [
   { image: 'hero-talharim', title: 'Delicious spaghetti bolognese with sauce and cheese on a table', author: 'BONNNI C', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/lmM2hqNzrfw', provider: 'Unsplash' },
   { image: 'talharim-bolonhesa', title: 'Pasta dish on white ceramic plate', author: 'Farhad Ibrahimzade', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/BhEXW19sW1M', provider: 'Unsplash' },
-  { image: 'raviolis-quatro-queijos', title: 'Four cheese ravioli with cream sauce', author: 'HaJunkiyada', license: 'CC BY-SA 4.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/', source: 'https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Four_cheese_ravioli_with_cream_sauce.jpg', provider: 'Wikimedia Commons' },
+  { image: 'raviolis-quatro-queijos', title: 'Cooked food in plate', author: 'Nicolas Cuestas', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/xc-067-UsOQ', provider: 'Unsplash' },
   { image: 'lasanha', title: 'Lasagna (1)', author: 'jeffreyw', license: 'CC BY 2.0', licenseUrl: 'https://creativecommons.org/licenses/by/2.0/', source: 'https://commons.wikimedia.org/wiki/File:Lasagna_(1).jpg', provider: 'Wikimedia Commons' },
-  { image: 'nhoque-sugo', title: 'Gnocchi al pomodoro', author: 'Ivan Vighetto', license: 'CC BY-SA 3.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/', source: 'https://commons.wikimedia.org/wiki/File:Gnocchi_al_pomodoro.JPG', provider: 'Wikimedia Commons' },
+  { image: 'nhoque-sugo', title: 'Gnocchi with tomato sauce and basil garnish', author: 'Eva Greenberg', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/O7Uq62XKz34', provider: 'Unsplash' },
   { image: 'talharim-trufado', title: 'Tagliatelle al tartufo', author: 'GastRomagna', license: 'CC0', licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/', source: 'https://commons.wikimedia.org/wiki/File:Tagliatelle_al_tartufo.jpg', provider: 'Wikimedia Commons' },
-  { image: 'farinha-e-ovos', title: 'Making a better homemade pasta', author: 'Joy', license: 'CC BY 2.0', licenseUrl: 'https://creativecommons.org/licenses/by/2.0/', source: 'https://commons.wikimedia.org/wiki/File:Making_a_better_homemade_pasta_-_16508591810.jpg', provider: 'Wikimedia Commons' },
+  { image: 'farinha-e-ovos', title: 'Eggs and flour', author: 'Wendy Rake', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/5evEHNh-Ft4', provider: 'Unsplash' },
   { image: 'ninho-de-massa', title: 'Tagliatelle!', author: 'Sebastian Mary', license: 'CC BY-SA 2.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/', source: 'https://commons.wikimedia.org/wiki/File:Tagliatelle!_(378171165).jpg', provider: 'Wikimedia Commons' },
   { image: 'maquina-de-massa', title: 'A person holding a yellow container with yellow cables', author: 'Andrés Giménez', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/7loCcIB4v3o', provider: 'Unsplash' },
   { image: 'lamina-de-massa', title: 'A person is using a pasta machine to make pasta', author: 'Vincent Dörig', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/mciRIMaxiAM', provider: 'Unsplash' },
@@ -497,5 +497,5 @@ export const imageCredits: ImageCredit[] = [
   { image: 'salao-abobadado', title: "L'eau Vive restaurant, Rome", author: 'Wknight94', license: 'CC BY-SA 3.0', licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/', source: 'https://commons.wikimedia.org/wiki/File:L%27eau_Vive_restaurant,_Rome.jpg', provider: 'Wikimedia Commons' },
   { image: 'salao-toalhas-vermelhas', title: 'Brown wooden table and chairs', author: 'Brands&People', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/iFyLBKmCrmQ', provider: 'Unsplash' },
   { image: 'tiramisu', title: 'Tiramisu', author: 'Raffaele Diomede', license: 'CC BY 2.0', licenseUrl: 'https://creativecommons.org/licenses/by/2.0/', source: 'https://commons.wikimedia.org/wiki/File:Tiramisu_-_Raffaele_Diomede.jpg', provider: 'Wikimedia Commons' },
-  { image: 'bola-de-massa', title: 'Making a better homemade pasta', author: 'Joy', license: 'CC BY 2.0', licenseUrl: 'https://creativecommons.org/licenses/by/2.0/', source: 'https://commons.wikimedia.org/wiki/File:Making_a_better_homemade_pasta_-_16694677671.jpg', provider: 'Wikimedia Commons' },
+  { image: 'bola-de-massa', title: 'Person making dough beside brown wooden rolling pin', author: 'Nadya Spetnitskaya', license: 'Unsplash License', licenseUrl: 'https://unsplash.com/license', source: 'https://unsplash.com/photos/tOYiQxF9-Ys', provider: 'Unsplash' },
 ];
