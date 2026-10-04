@@ -28,7 +28,7 @@ export const business = {
   state: 'RS',
   foundedYear: 2012,
   /** Endereço público do deploy. Troque pelo domínio do cliente. */
-  url: 'https://la-pasta-di-girardi.vercel.app',
+  url: 'https://pasta-di-girardi.vercel.app',
   address: {
     street: 'Rua dos Girassóis, 000',
     district: 'Bairro Exemplo',
